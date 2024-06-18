@@ -17,4 +17,4 @@ Through this project, we aim to:
 - **Successfully Implemented NIP-05 Verification:**
   - **What is a NIP?** A NIP is a Nostr Improvement Proposal; these are technical specifications proposed as upgrades for the Nostr protocol.
   - **What is NIP-05?** NIP-05 is a verification method for Nostr accounts across all clients. Similar to the blue checkmark on Twitter or Instagram, NIP-05 allows users to verify their accounts independently, ensuring that Nostr clients recognize and respect the verification. This implementation enhances trust and credibility within the Nostr ecosystem, empowering users with a decentralized and user-controlled verification process.
-- **Next up is to implement a Nostr Relay.
+- **Next up is to implement a Nostr Relay.**
