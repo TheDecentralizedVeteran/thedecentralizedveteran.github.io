@@ -1,2 +1,7 @@
-theme: jekyll-theme-hacker
 include: [".well-known"]
+title: TheDecentralizedVeteran's Project
+description: Helping non-tech related people contribute to decentralization.
+url: "https://TheDecentralizedVeteran.github.io"
+theme: jekyll-theme-hacker
+
+
