@@ -1,7 +1,4 @@
----
-layout: default
+theme: jekyll-theme-hacker
 title: Welcome
-permalink: /
----
 
 {% include_relative README.md %}
