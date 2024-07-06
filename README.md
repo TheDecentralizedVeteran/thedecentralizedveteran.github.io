@@ -4,7 +4,7 @@ Hello! I'm TheDecentralizedVeteran, a Marine Corps Veteran dedicated to promotin
 
 ## About This Project
 
-This Project is dedicated to helping non-tech related people like myself contribute to decentralization because that's how we get better as a society and move forward. Our mission is to empower everyone to participate in building a decentralized future.
+This Project is dedicated to helping non-tech people like myself contribute to decentralization because that's how we get better as a society and move forward. Our mission is to empower everyone to participate in building a decentralized future.
 
 Through this project, we aim to:
 
