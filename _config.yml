@@ -1,7 +1,6 @@
 include: [".well-known"]
-title: TheDecentralizedVeteran's Project
+title: TheDecentralizedVeteran
 description: Helping non-tech people contribute to decentralization.
-url: "https://TheDecentralizedVeteran.github.io"
 theme: jekyll-theme-hacker
 
 
