@@ -2,5 +2,7 @@ include: [".well-known"]
 title: TheDecentralizedVeteran
 description: Helping non-tech people contribute to decentralization.
 theme: jekyll-theme-hacker
+github_ribbon:
+  enabled: false
 
 
