@@ -14,7 +14,6 @@ permalink: /
 
 # THE DECENTRALIZED VETERAN
 
-<br>
 # Welcome to the Matrix!
 
 Hello! I'm The Decentralized Veteran, a Marine Corps Veteran dedicated to promoting decentralized technologies to enhance privacy, security, and freedom of expression—values I cherish as an American and defender of freedom.
@@ -25,12 +24,13 @@ This website is dedicated to helping non-tech people like myself contribute to t
 
 Through this website, I aim to:
 
-- **Promote Privacy:** Implement solutions that protect user data and communication from unauthorized access.
-- **Enhance Security:** Develop tools and protocols that fortify defenses against cyber threats.
-- **Uphold Freedom of Expression:** Ensure everyone has the ability to communicate and express themselves freely without censorship.
+- Promote Privacy:** Implement solutions that protect user data and communication from unauthorized access.
+- Enhance Security:** Develop tools and protocols that fortify defenses against cyber threats.
+- Uphold Freedom of Expression:** Ensure everyone has the ability to communicate and express themselves freely without censorship.
 
  ## Example of Bitcoin Code (Pseudocode):
-Here's a simplified pseudocode example of how a Bitcoin transaction might be represented. This pseudocode demonstrates the basic structure of a blockchain with transactions and blocks. The actual Bitcoin code is much more complex and includes many additional features and optimizations. You can view the full Bitcoin Core codebase on GitHub here.
+
+Here's a simplified pseudocode example of how a Bitcoin transaction might be represented. This pseudocode demonstrates the basic structure of a blockchain with transactions and blocks. The actual Bitcoin code is much more complex and includes many additional features and optimizations. You can view the full Bitcoin Core codebase on GitHub [here](https://github.com/bitcoin/bitcoin).
 
 ```python
 class Transaction:
@@ -81,6 +81,4 @@ blockchain.add_block(transactions)
 
 ```
 
-- Decrypt and encrypt text (access token: 2121):
-  - secret msg example:
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
