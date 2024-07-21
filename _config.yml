@@ -7,7 +7,7 @@ baseurl            : "/"
 permalink           : /:title/
 description         : "Welcome"
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "Designed by The Decentralized Veteran, All Rights Reserved"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
@@ -59,10 +59,7 @@ collections:
   posts:
     output          : true
 
-# 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
-
-# 4. Default page settings (WILL BE overwriten by front-matters of a page)
+# 3. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
   -    
     scope:
@@ -84,7 +81,7 @@ defaults:
       comment             : true
       footer              : true        # whether show footer by default
 
-# 5. Social Media Accounts
+# 4. Social Media Accounts
 email               : "https://github.com/TheDecentralizedVeteran" 
 linkedin            : 
 github              : "https://github.com/TheDecentralizedVeteran" 
@@ -97,7 +94,7 @@ youtube             :
 steam               : 
 weibo               :
       
-# 6. Where things are
+# 5. Where things are
 source              : .
 destination         : ./_site
 collections_dir     : collections
