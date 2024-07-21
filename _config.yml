@@ -2,8 +2,8 @@ include: [".well-known"]
 # 1. Site Settings
 title               : The Decentralized Veteran
 owner               : "The Decentralized Veteran"
-url                : "https://thedecentralizedveteran.com"
-baseurl            : "/"
+url                 : "https://thedecentralizedveteran.com"
+baseurl             : "/"
 permalink           : /:title/
 description         : "Welcome"
 markdown            : kramdown
