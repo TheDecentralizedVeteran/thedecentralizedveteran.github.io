@@ -28,7 +28,7 @@ Through this website, I aim to:
 - Enhance Security:** Develop tools and protocols that fortify defenses against cyber threats.
 - Uphold Freedom of Expression:** Ensure everyone has the ability to communicate and express themselves freely without censorship.
 
- ## Example of Bitcoin Code (Pseudocode):
+## Example of Bitcoin Code (Pseudocode):
 
 Here's a simplified pseudocode example of how a Bitcoin transaction might be represented. This pseudocode demonstrates the basic structure of a blockchain with transactions and blocks. The actual Bitcoin code is much more complex and includes many additional features and optimizations. You can view the full Bitcoin Core codebase on GitHub [here](https://github.com/bitcoin/bitcoin).
 
@@ -81,4 +81,4 @@ blockchain.add_block(transactions)
 
 ```
 
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
+  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">BUY MORE ₿ITCOIN AND STAY HUMBLE</p>
