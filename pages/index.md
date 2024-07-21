@@ -13,8 +13,9 @@ permalink: /
 ---
 
 # THE DECENTRALIZED VETERAN
+# Unlock the Potential of Decentralized Innovation!
 
-# Welcome to the Matrix!
+## Mission
 
 Hello! I'm The Decentralized Veteran, a Marine Corps Veteran dedicated to promoting decentralized technologies to enhance privacy, security, and freedom of expression—values I cherish as an American and defender of freedom.
 
