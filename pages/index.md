@@ -25,9 +25,9 @@ This website is dedicated to helping non-tech people like myself contribute to t
 
 Through this website, I aim to:
 
-- Promote Privacy:** Implement solutions that protect user data and communication from unauthorized access.
-- Enhance Security:** Develop tools and protocols that fortify defenses against cyber threats.
-- Uphold Freedom of Expression:** Ensure everyone has the ability to communicate and express themselves freely without censorship.
+- Promote Privacy: Implement solutions that protect user data and communication from unauthorized access.
+- Enhance Security: Develop tools and protocols that fortify defenses against cyber threats.
+- Uphold Freedom of Expression: Ensure everyone has the ability to communicate and express themselves freely without censorship.
 
 ## Example of Bitcoin Code (Pseudocode):
 
