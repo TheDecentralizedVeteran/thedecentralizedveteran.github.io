@@ -34,6 +34,11 @@ Through this website, I aim to:
 Here's a simplified pseudocode example of how a Bitcoin transaction might be represented. This pseudocode demonstrates the basic structure of a blockchain with transactions and blocks. The actual Bitcoin code is much more complex and includes many additional features and optimizations. You can view the full Bitcoin Core codebase on GitHub [here](https://github.com/bitcoin/bitcoin).
 
 ```python
+import hashlib
+
+def sha256(data):
+    return hashlib.sha256(data.encode('utf-8')).hexdigest()
+
 class Transaction:
     def __init__(self, inputs, outputs):
         self.inputs = inputs
@@ -50,18 +55,24 @@ class Block:
         self.previous_hash = previous_hash
         self.transactions = transactions
         self.nonce = 0
+        self.secret_key = "21"  # Secret key we want to be solved
         self.hash = self.mine_block()
 
     def mine_block(self):
-        # Simplified proof-of-work algorithm
-        while not self.hash.startswith('0000'):
+        # Mining with a condition to solve the secret key problem
+        while not self.hash.startswith('0000') or self.calculate_secret_key() != self.secret_key:
             self.nonce += 1
             self.hash = self.calculate_hash()
+        return self.hash
 
     def calculate_hash(self):
         # Simplified hash calculation
         data = str(self.previous_hash) + str(self.transactions) + str(self.nonce)
         return sha256(data)
+
+    def calculate_secret_key(self):
+        # Simulate solving the secret key problem
+        return str(int(self.nonce) % 100)  # Example: nonce mod 100 should be 21
 
 class Blockchain:
     def __init__(self):
@@ -79,7 +90,6 @@ class Blockchain:
 transactions = [Transaction(["input1"], ["output1"])]
 blockchain = Blockchain()
 blockchain.add_block(transactions)
-
 ```
 
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">BUY MORE ₿ITCOIN AND STAY HUMBLE</p>
