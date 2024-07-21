@@ -92,4 +92,5 @@ blockchain = Blockchain()
 blockchain.add_block(transactions)
 ```
 
+```html
 <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">BUY MORE ₿ITCOIN AND STAY HUMBLE!</p>
