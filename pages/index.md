@@ -12,10 +12,10 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
+# THE DECENTRALIZED VETERAN
 
 <br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
+> Welcome to the Matrix!
 
 ## Features
 
@@ -42,7 +42,7 @@ for i in range(n):
     print ("%d" %arr[i]),
 ```
 
-- Decrypt and encrypt text (access token: 233):
+- Decrypt and encrypt text (access token: 2121):
   - secret msg example:
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
 
