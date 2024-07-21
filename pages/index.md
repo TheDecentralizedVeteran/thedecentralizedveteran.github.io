@@ -91,5 +91,5 @@ transactions = [Transaction(["input1"], ["output1"])]
 blockchain = Blockchain()
 blockchain.add_block(transactions)
 ```
-
+<p class="encrypted" id="QlVZIE1PUkUg4oK/SVRDT0lOIEFORCBTVEFZIEhVTUJMRSE=">Look at the Bitcoin Pseudocode above to decrypt this message</p>
 
