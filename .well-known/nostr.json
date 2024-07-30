@@ -1,14 +1,22 @@
 {
   "names": {
-    "TheDecentralizedVeteran": "a4c7a65e52443a1e90d3b5af6f0bb2c81992441def2180991b0588f02359dc2a"
+    "Me": "a4c7a65e52443a1e90d3b5af6f0bb2c81992441def2180991b0588f02359dc2a"
   },
   "relays": {
     "a4c7a65e52443a1e90d3b5af6f0bb2c81992441def2180991b0588f02359dc2a": [
+      "wss://nos.lol",
+      "wss://nostr.fmt.wiz.biz",
+      "wss://nostr.land",
+      "wss://nostr.wine",
+      "wss://offchain.pub",
+      "wss://relay.damus.io",
+      "wss://relay.momostr.pink",
+      "wss://relay.nostr.band",
+      "wss://relay.nostrplebs.com",
+      "wss://relay.primal.net",
       "wss://primal.net",
       "wss://purplepag.es",
       "wss://relay.angor.io",
-      "wss://relay.damus.io",
-      "wss://relay.nostrplebs.com",
       "wss://relay.siamstr.com",
       "wss://rly.nostrkid.com"
     ]
